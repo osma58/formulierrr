@@ -1,0 +1,17 @@
+ label {
+    display: inline-block;
+    cursor: pointer;
+    padding: 1em;
+    text-align: center;
+    background: pink;
+    border-radius: 10%;
+}
+
+input[type="radio"] {
+    display: block;
+}
+
+h1 {
+    background: pink; 
+    border-radius: 10%;
+}
